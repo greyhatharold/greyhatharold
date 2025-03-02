@@ -16,5 +16,5 @@ I started out in music, ran my own indie label, and now I engineer AI solutions 
 
 ## 📫 How to reach me...
 - Email: griffin@griffin-code.com
-- 
+  
 **Off on a side quest** 🚀🔥
