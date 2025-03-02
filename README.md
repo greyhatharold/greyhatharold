@@ -15,8 +15,6 @@ I started out in music, ran my own indie label, and now I engineer AI solutions 
 - Everything from all angles.
 
 ## 📫 How to reach me...
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- Email: your@email.com  
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
+- Email: griffin@griffin-code.com
+- 
 **Off on a side quest** 🚀🔥
