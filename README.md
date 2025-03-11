@@ -81,7 +81,7 @@ while alive:
 
 <sub>
   <a href="https://github.com/greyhatharold">github</a> • 
-  <a href="https://linkedin.com/in/greyhatharold">linkedin</a>
+  <a href="https://www.linkedin.com/in/griffin-strier-9ab9b0180">linkedin</a>
 </sub>
 
 </div>
