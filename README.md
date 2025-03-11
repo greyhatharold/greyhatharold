@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=24242B&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="@greyhatharold"/>
 </div>
 
-# @greyhatharold
-
 <div align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Architect-24242B" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2A2A2D" alt="Full-Stack Developer"/>
