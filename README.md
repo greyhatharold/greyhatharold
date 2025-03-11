@@ -4,31 +4,58 @@
   <img src="https://img.shields.io/badge/Role-AI%20Architect-1a1a1a" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
   
+  <sub>Building the future, one line at a time</sub>
 </div>
 
+<details>
+<summary><b>Background</b></summary>
 I'm an AI architect, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. 
 I used to release music, for a time ran my own indie label, studied history before that, and for a time moonlighted in aerospace engineering in high school. 
 
 I roll like Newton's first, witness my inertia.
+</details>
 
 ## Areas of Focus
-- Generative AI & LLM fine-tuning  
+<table>
+<tr>
+<td width="50%">
+
+### Engineering
+- Generative AI & LLM fine-tuning
 - Full-stack development
-- Blockchain & decentralized technologies  
+- Blockchain & decentralized technologies
+
+</td>
+<td width="50%">
+
+### Design & Innovation
 - Agentic workflows and agent development
 - Frontend and UI/UX design
 - Computer vision and its random applications
 
+</td>
+</tr>
+</table>
+
 ## Current Pursuits
-- Everything from all angles, 'til infity.
+```python
+while alive:
+    learn("Everything from all angles")
+    if reached_infinity:
+        break
+```
 
 ## Contact
-- griffin@griffin-code.com
+<kbd>[griffin@griffin-code.com](mailto:griffin@griffin-code.com)</kbd>
   
 <div align="center">
-<hr style="width:50%">
+<hr style="width:30%; border: none; height: 1px; background: linear-gradient(to right, transparent, #2a2a2a, transparent);">
 
 **Off on a side quest**
 
-<sub>[ <a href="https://github.com/greyhatharold">github</a> ]</sub>
+<sub>
+  <a href="https://github.com/greyhatharold">github</a> • 
+  <a href="https://linkedin.com/in/greyhatharold">linkedin</a>
+</sub>
+
 </div>
