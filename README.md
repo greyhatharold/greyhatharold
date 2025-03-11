@@ -1,15 +1,17 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1,1a1a1a,2a2a2a&section=header&text=%40greyhatharold&fontSize=50&fontColor=1a1a1a&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,24,27,52,52,54&section=header&text=&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=24242B&center=true&vCenter=true&repeat=true&width=435&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="@greyhatharold"/>
 
 # @greyhatharold
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Architect-1a1a1a" alt="AI Architect"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
+  <img src="https://img.shields.io/badge/Role-AI%20Architect-24242B" alt="AI Architect"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-2A2A2D" alt="Full-Stack Developer"/>
   
   <div style="margin: 20px 0">
-    <img src="https://img.shields.io/badge/PHILOSOPHY-1a1a1a?style=for-the-badge&labelColor=2a2a2a&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
+    <img src="https://img.shields.io/badge/PHILOSOPHY-24242B?style=for-the-badge&labelColor=2A2A2D&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
   </div>
   <div style="margin-top: -5px; margin-bottom: 15px">
     <em style="color: #808080; font-style: italic; font-family: monospace">"I don't half ass anything"</em>
