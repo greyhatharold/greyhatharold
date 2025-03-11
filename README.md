@@ -14,7 +14,7 @@ I roll like Newton's first, witness my inertia.
 - Computer vision and its random applications
 
 ## I’m currently learning...
-- Everything from all angles, till infity.
+- Everything from all angles, 'til infity.
 
 ## How to reach me (if truly necessary)...
 - Email: griffin@griffin-code.com
