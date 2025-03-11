@@ -1,6 +1,6 @@
 # I’m @greyhatharold
 
-I'm an AI architect, full-stack developer, and musician with a deep interest in generative AI, open-source projects, and all things code. 
+I'm an AI architect, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI, open-source projects, and all things code. 
 I started out in music, ran my own indie label, and now I engineer AI solutions while still dropping tracks.
 
 ## I’m interested in...
