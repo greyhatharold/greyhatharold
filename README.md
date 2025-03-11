@@ -4,8 +4,12 @@
   <img src="https://img.shields.io/badge/Role-AI%20Architect-1a1a1a" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
   
-  <h3><img src="https://img.shields.io/badge/Philosophy-Full--Ass%E2%84%A2-black?style=for-the-badge" alt="Full-Ass™"/></h3>
-  <sub><i>I don't half-ass anything</i></sub>
+  <div style="margin: 20px 0">
+    <img src="https://img.shields.io/badge/PHILOSOPHY-808080?style=for-the-badge&labelColor=808080&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
+  </div>
+  <div style="margin-top: -5px">
+    <em style="color: #ffffff; font-style: italic; font-family: 'Segoe UI', system-ui, sans-serif">I don't half-ass anything</em>
+  </div>
 </div>
 
 <details>
