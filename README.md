@@ -1,8 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1A1A1A&center=true&vCenter=true&repeat=true&width=435&lines=%40greyhatharold;%7B+AI+Architect+%7D" alt="@greyhatharold"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=1,1a1a1a,2a2a2a&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1,1a1a1a,2a2a2a&section=header&text=%40greyhatharold&fontSize=50&fontColor=1a1a1a&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # @greyhatharold
 
