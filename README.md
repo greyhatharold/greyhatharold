@@ -8,7 +8,7 @@ I started out in music, ran my own indie label, and now I engineer AI solutions 
 - Full-stack development
 - Blockchain & decentralized technologies  
 - Agentic workflows and agent development
-- Front end and UI design
+- Frontend and UI/UX design
 - Computer vision and its random applications
 
 ## 🌱 I’m currently learning...
