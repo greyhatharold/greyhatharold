@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24242B,52527A,6B4B8A,9B4B8A&section=header&text=&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=twinkling&descColor=9B4B8A" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=9B4B8A&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="@greyhatharold"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=9B4B8A&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+I+don't+half+ass+anything." alt="@greyhatharold"/>
 </div>
 
 <div align="center">
@@ -12,11 +12,6 @@
   
   <div style="margin: 20px 0">
     <img src="https://img.shields.io/badge/PHILOSOPHY-6B4B8A?style=for-the-badge&labelColor=52527A&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
-  </div>
-  <div style="margin-top: -5px; margin-bottom: 15px">
-    <em style="color: #808080; font-style: italic; font-family: monospace">"I don't half ass anything"</em>
-  </div>
-</div>
 
 <div align="center">
   <h2>Background</h2>
