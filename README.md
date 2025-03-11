@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/PHILOSOPHY-1a1a1a?style=for-the-badge&labelColor=2a2a2a&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%20%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
   </div>
   <div style="margin-top: -5px; margin-bottom: 15px">
-    <em style="color: #808080; font-style: italic; font-family: monospace">I don't half ass anything</em>
+    <em style="color: #808080; font-style: italic; font-family: monospace">"I don't half ass anything"</em>
   </div>
 </div>
 
@@ -28,22 +28,69 @@
 <tr>
 <td width="50%">
 
-### Engineering
-- Generative AI & LLM fine-tuning
-- Full-stack development
-- Blockchain & decentralized technologies
+### 🛠 Engineering & Development
+- **AI & Machine Learning**
+  - Large Language Model fine-tuning & deployment
+  - Neural network architecture design
+  - Prompt engineering & optimization
+- **Full-Stack Development**
+  - Modern web frameworks (React, Next.js, Vue)
+  - Backend systems (Node.js, Python, Go)
+  - Database architecture (SQL & NoSQL)
+- **Blockchain & Web3**
+  - Smart contract development
+  - DeFi protocol implementation
+  - Cross-chain integration solutions
 
 </td>
 <td width="50%">
 
-### Design & Innovation
-- Agentic workflows and agent development
-- Frontend and UI/UX design
-- Computer vision and its random applications
+### 🎨 Innovation & Design
+- **AI Agent Architecture**
+  - Multi-agent system design
+  - Autonomous workflow optimization
+  - Agent collaboration frameworks
+- **User Experience**
+  - Intuitive interface design
+  - Responsive web applications
+  - Accessibility-first development
+- **Computer Vision & Graphics**
+  - Image processing algorithms
+  - Real-time object detection
+  - AR/VR application development
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <details>
+    <summary><strong>🌟 Additional Expertise</strong></summary>
+    <br>
+    <table>
+    <tr>
+    <td width="50%">
+    
+### 🔧 Technical Skills
+- Cloud infrastructure (AWS, GCP)
+- DevOps & CI/CD pipelines
+- System architecture design
+- Performance optimization
+    
+    </td>
+    <td width="50%">
+    
+### 📊 Project Management
+- Agile methodologies
+- Technical team leadership
+- Product strategy
+- Risk assessment
+    
+    </td>
+    </tr>
+    </table>
+  </details>
+</div>
 
 <div align="center">
   <h2>Current Pursuits</h2>
