@@ -20,7 +20,10 @@
   </p>
 </div>
 
-## Areas of Focus
+<div align="center">
+  <h2>Areas of Focus</h2>
+</div>
+
 <table>
 <tr>
 <td width="50%">
@@ -42,7 +45,10 @@
 </tr>
 </table>
 
-## Current Pursuits
+<div align="center">
+  <h2>Current Pursuits</h2>
+</div>
+
 ```python
 while alive:
     learn("Everything from all angles")
@@ -50,7 +56,10 @@ while alive:
         break
 ```
 
-## Contact
+<div align="center">
+  <h2>Contact</h2>
+</div>
+
 <kbd>[griffin@griffin-code.com](mailto:griffin@griffin-code.com)</kbd>
   
 <div align="center">
