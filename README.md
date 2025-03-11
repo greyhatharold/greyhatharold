@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,24,27,52,52,54&section=header&text=&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=50&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=24242B&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Building+the+future" alt="@greyhatharold"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=24242B&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%40greyhatharold;%E2%8C%A8+Bringing+ideas+to+infinity." alt="@greyhatharold"/>
 </div>
 
 <div align="center">
