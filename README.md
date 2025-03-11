@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
   
   <div style="margin: 20px 0">
-    <img src="https://img.shields.io/badge/PHILOSOPHY:-1a1a1a?style=for-the-badge&labelColor=2a2a2a&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%E2%96%B6%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
+    <img src="https://img.shields.io/badge/PHILOSOPHY-1a1a1a?style=for-the-badge&labelColor=2a2a2a&color=000000" alt="Philosophy"/><img src="https://img.shields.io/badge/%7C%20FULL--ASS%E2%84%A2-000000?style=for-the-badge" alt="Full-Ass™"/>
   </div>
   <div style="margin-top: -5px; margin-bottom: 15px">
     <em style="color: #808080; font-style: italic; font-family: monospace">"I don't half-ass anything"</em>
