@@ -20,10 +20,13 @@
   </p>
 </div>
 
-## Areas of Focus
+<div align="center">
+  <h2>Areas of Focus</h2>
+
+  <div align="center" style="max-width: 800px; margin: 0 auto;">
 
 | Engineering & Development | Innovation & Design |
-|:------------------------|:-------------------|
+|:------------------------:|:-------------------:|
 | **Artificial Intelligence** | **AI Agent Architecture** |
 | • Large Language Model Fine-tuning & Deployment | • Multi-agent System Design |
 | • Neural Network Architecture Design | • Autonomous Workflow Optimization |
@@ -43,13 +46,15 @@
 <summary><b>Additional Expertise</b></summary>
 
 | Technical Skills | Project Management |
-|:----------------|:-------------------|
+|:----------------:|:-----------------:|
 | • Cloud Infrastructure (AWS, GCP) | • Agile Methodologies |
 | • DevOps & CI/CD Pipelines | • Technical Team Leadership |
 | • System Architecture Design | • Product Strategy |
 | • Performance Optimization | • Risk Assessment |
 
 </details>
+  </div>
+</div>
 
 <div align="center">
   <h2>Current Pursuits</h2>
