@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Architect-1a1a1a" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
+  
 </div>
 
 I'm an AI architect, full-stack developer, and ex-Jack-of-All-Trades, with a deep interest in generative AI and building the future. 
