@@ -22,74 +22,93 @@
 
 <div align="center">
   <h2>Areas of Focus</h2>
-</div>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛠 Engineering & Development
-- **AI & Machine Learning**
-  - Large Language Model fine-tuning & deployment
-  - Neural network architecture design
-  - Prompt engineering & optimization
-- **Full-Stack Development**
-  - Modern web frameworks (React, Next.js, Vue)
-  - Backend systems (Node.js, Python, Go)
-  - Database architecture (SQL & NoSQL)
-- **Blockchain & Web3**
-  - Smart contract development
-  - DeFi protocol implementation
-  - Cross-chain integration solutions
-
-</td>
-<td width="50%">
-
-### 🎨 Innovation & Design
-- **AI Agent Architecture**
-  - Multi-agent system design
-  - Autonomous workflow optimization
-  - Agent collaboration frameworks
-- **User Experience**
-  - Intuitive interface design
-  - Responsive web applications
-  - Accessibility-first development
-- **Computer Vision & Graphics**
-  - Image processing algorithms
-  - Real-time object detection
-  - AR/VR application development
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <details>
-    <summary><strong>🌟 Additional Expertise</strong></summary>
-    <br>
-    <table>
-    <tr>
-    <td width="50%">
-    
-### 🔧 Technical Skills
-- Cloud infrastructure (AWS, GCP)
-- DevOps & CI/CD pipelines
-- System architecture design
-- Performance optimization
-    
-    </td>
-    <td width="50%">
-    
-### 📊 Project Management
-- Agile methodologies
-- Technical team leadership
-- Product strategy
-- Risk assessment
-    
-    </td>
-    </tr>
+  <div align="center" style="max-width: 1000px; margin: 0 auto;">
+    <table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+      <tr>
+        <td width="50%" style="padding: 20px; background: rgba(40, 40, 40, 0.1); border-radius: 8px;">
+          <h3 align="center">Engineering & Development</h3>
+          <div style="margin: 15px 0;">
+            <strong>Artificial Intelligence</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Large Language Model Fine-tuning & Deployment</li>
+              <li>Neural Network Architecture Design</li>
+              <li>Prompt Engineering & Optimization</li>
+            </ul>
+          </div>
+          <div style="margin: 15px 0;">
+            <strong>Full-Stack Development</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Modern Web Frameworks (React, Next.js, Vue)</li>
+              <li>Backend Systems (Node.js, Python, Go)</li>
+              <li>Database Architecture (SQL & NoSQL)</li>
+            </ul>
+          </div>
+          <div style="margin: 15px 0;">
+            <strong>Blockchain & Web3</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Smart Contract Development</li>
+              <li>DeFi Protocol Implementation</li>
+              <li>Cross-chain Integration Solutions</li>
+            </ul>
+          </div>
+        </td>
+        <td width="50%" style="padding: 20px; background: rgba(40, 40, 40, 0.1); border-radius: 8px;">
+          <h3 align="center">Innovation & Design</h3>
+          <div style="margin: 15px 0;">
+            <strong>AI Agent Architecture</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Multi-agent System Design</li>
+              <li>Autonomous Workflow Optimization</li>
+              <li>Agent Collaboration Frameworks</li>
+            </ul>
+          </div>
+          <div style="margin: 15px 0;">
+            <strong>User Experience</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Intuitive Interface Design</li>
+              <li>Responsive Web Applications</li>
+              <li>Accessibility-first Development</li>
+            </ul>
+          </div>
+          <div style="margin: 15px 0;">
+            <strong>Computer Vision & Graphics</strong>
+            <ul style="list-style-type: none; padding-left: 0;">
+              <li>Image Processing Algorithms</li>
+              <li>Real-time Object Detection</li>
+              <li>AR/VR Application Development</li>
+            </ul>
+          </div>
+        </td>
+      </tr>
     </table>
-  </details>
+
+    <details style="margin-top: 20px;">
+      <summary style="cursor: pointer; color: #666;"><strong>Additional Expertise</strong></summary>
+      <table align="center" style="width: 100%; margin-top: 15px; border-collapse: separate; border-spacing: 0 15px;">
+        <tr>
+          <td width="50%" style="padding: 20px; background: rgba(40, 40, 40, 0.05); border-radius: 8px;">
+            <h3 align="center">Technical Skills</h3>
+            <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+              <li>Cloud Infrastructure (AWS, GCP)</li>
+              <li>DevOps & CI/CD Pipelines</li>
+              <li>System Architecture Design</li>
+              <li>Performance Optimization</li>
+            </ul>
+          </td>
+          <td width="50%" style="padding: 20px; background: rgba(40, 40, 40, 0.05); border-radius: 8px;">
+            <h3 align="center">Project Management</h3>
+            <ul style="list-style-type: none; padding-left: 0; text-align: center;">
+              <li>Agile Methodologies</li>
+              <li>Technical Team Leadership</li>
+              <li>Product Strategy</li>
+              <li>Risk Assessment</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </details>
+  </div>
 </div>
 
 <div align="center">
