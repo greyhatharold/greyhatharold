@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Role-AI%20Architect-1a1a1a" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-2a2a2a" alt="Full-Stack Developer"/>
   
-  <sub>Building the future, one line at a time</sub>
+  <h3><img src="https://img.shields.io/badge/Philosophy-Full--Ass%E2%84%A2-black?style=for-the-badge" alt="Full-Ass™"/></h3>
+  <sub><i>I don't half-ass anything</i></sub>
 </div>
 
 <details>
